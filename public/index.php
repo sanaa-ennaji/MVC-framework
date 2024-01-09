@@ -1,13 +1,1 @@
-<?php
-
-
-
-
-
-
-
-
-
-
-// htacess a part of apachee file
-?>
+Hello world
