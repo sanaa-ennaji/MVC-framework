@@ -1,5 +1,3 @@
-# MVC-framework
-
 # Mini PHP framework
 
 Mini PHP framework created by [Brad Traversy](https://github.com/bradtraversy) through his udemy course. Customized by me and used as base for integrating and testing new technologies.
